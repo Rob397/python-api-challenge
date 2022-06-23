@@ -32,13 +32,6 @@ Save a CSV of all retrieved data and a PNG image for each scatter plot.
 
 
 Part II - VacationPy
-Now let's use your skills in working with weather data to plan future vacations. Use jupyter-gmaps and the Google Places API for this part of the assignment.
-
-
-Note: Remember that any API usage beyond the $200 credit will be charged to your personal account. You can set quotas and limits to your daily requests to be sure you can't be charged. Check out Google Maps Platform Billing and Manage your cost of use for more information.
-
-
+Use jupyter-gmaps and the Google Places API for this part of the assignment.
 Note: if you having trouble displaying the maps try running jupyter nbextension enable --py gmaps in your environment and retry.
-
-
 Create a heat map that displays the humidity for every city from the part I of the homework.
